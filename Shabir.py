@@ -611,8 +611,7 @@ def pilih_super():
 	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 Dragon.py)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;95m"+str(len(cekpoint))
 	print ""
-	
-                      _____ 
+	                   
             �,.-~�*�.::::::::::�*�~-.,� 
       �.� �::::::�: . � .�             ::` �.� 
    ���,;':::::::' :� .     �   .  :      ::::::`�� 
